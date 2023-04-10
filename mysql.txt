@@ -1,0 +1,8 @@
+archivo 
+log
+
+tabla
+usuarios
+
+insertar datos
+INSERT INTO `usuarios`(`usuario`, `password`) VALUES (admin,admin)
